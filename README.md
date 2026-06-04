@@ -33,7 +33,7 @@ const hiroxnull = {
 
 ---
 
-## 🛠️ Tecnologías
+<h2 align="center">🛠️ Tecnologías</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,js,ts,bash,html,css,linux,git,github,docker,nginx,postgres,redis,vscode,vim&theme=dark" alt="Tecnologías" />
@@ -41,7 +41,7 @@ const hiroxnull = {
 
 ---
 
-## 🧠 Lo que me apasiona
+<h2 align="center">🧠 Lo que me apasiona</h2>
 
 <table>
   <tr>
@@ -96,7 +96,7 @@ Compartir conocimiento
 
 ---
 
-## 📫 Contacto
+<h2 align="center">📫 Contacto</h2>
 
 <p align="center">
   <a href="mailto:contacta.con.hiro.essential216@aleeas.com">
@@ -112,7 +112,7 @@ Compartir conocimiento
 
 ---
 
-## 💬 Sobre mí
+<h2 align="center">💬 Sobre mí</h2>
 
 ```yaml
 intereses:
