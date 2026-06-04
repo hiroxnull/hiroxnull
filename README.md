@@ -96,6 +96,7 @@ Compartir conocimiento
 </td>
 </tr>
 </table>
+
 ---
 
 <h2 align="center">📫 Contacto</h2>
