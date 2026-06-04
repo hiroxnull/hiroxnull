@@ -6,7 +6,7 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:1f2937,100:161b22&height=180&section=header&text=hiroxnull&fontSize=70&fontColor=e6edf3&fontAlignY=38&desc=%F0%9F%91%8B+Hola%2C+bienvenido&descSize=18&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" alt="Header" />
   </p>
 
-  <h3 align="center">👋 Hola, soy <b>Hiro</b></h3>
+  <h3 align="center">Soy <b>Hiro</b></h3>
 
   <p align="center">
     Desarrollador apasionado por la tecnología, la seguridad informática y construir cosas útiles.<br />
@@ -43,57 +43,59 @@ const hiroxnull = {
 
 <h2 align="center">🧠 Lo que me apasiona</h2>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
+<table align="center">
+<tr>
+<td align="center" width="50%">
 
-### 💻 Desarrollo
+<h3>💻 Desarrollo</h3>
 
-<pre>
-Python · JavaScript
-Bash · HTML/CSS
+<p>
+Python · JavaScript<br>
+Bash · HTML/CSS<br>
 Automatización · APIs
-</pre>
+</p>
 
 </td>
-    <td align="center" width="50%">
 
-### 🔒 Seguridad
+<td align="center" width="50%">
 
-<pre>
-Pentesting · OSINT
-Hardening · Anonimato
+<h3>🔒 Seguridad</h3>
+
+<p>
+Pentesting · OSINT<br>
+Hardening · Anonimato<br>
 Investigación de vulnerabilidades
-</pre>
+</p>
 
 </td>
-  </tr>
-  <tr>
-    <td align="center">
+</tr>
 
-### 🐧 Linux
+<tr>
+<td align="center">
 
-<pre>
-Arch · Debian
-Docker · Nginx
+<h3>🐧 Linux</h3>
+
+<p>
+Arch · Debian<br>
+Docker · Nginx<br>
 Administración de sistemas
-</pre>
+</p>
 
 </td>
-    <td align="center">
 
-### 🌟 Open Source
+<td align="center">
 
-<pre>
-Contribuciones a la comunidad
-Herramientas útiles
+<h3>🌟 Open Source</h3>
+
+<p>
+Contribuciones a la comunidad<br>
+Herramientas útiles<br>
 Compartir conocimiento
-</pre>
+</p>
 
 </td>
-  </tr>
+</tr>
 </table>
-
 ---
 
 <h2 align="center">📫 Contacto</h2>
