@@ -29,7 +29,7 @@ const hiroxnull = {
   lema: "Siempre un paso adelante, siempre aprendiendo",
   estado: "☕ Programando algo nuevo"
 };
-````
+```
 
 ---
 
@@ -107,6 +107,7 @@ Compartir conocimiento
   </a>
   <a href="mailto:contacta.con.hiro.essential216@aleeas.com">
     <img src="https://img.shields.io/badge/Email_De_Respaldo-contacta.con.hiro.essential216@aleeas.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
   <a href="https://discord.gg/gkgRFz7bVv">
     <img src="https://img.shields.io/badge/Discord-null.data-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
